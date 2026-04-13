@@ -108,8 +108,8 @@ Python or PowerShell tools for log parsing, alerting, or triage.
 
 ## 📬 Contact
 
-- **GitHub:** *your GitHub link here*  
-- **LinkedIn:** *your LinkedIn link here*  
+- **GitHub:** *(https://github.com/ronjon94)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/jonathan-ronimous-863a29356/)*  
 
 ---
 
